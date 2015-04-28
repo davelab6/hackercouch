@@ -14,9 +14,9 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 
 ## Crash on my couch
-I have no permanent couch at the moment. But if I would, I’d say something like this:
+I can't offer hosting at the moment. But if I would, I’d say something like this:
 
-* couch in Berlin-Kreuzberg, near cool spots like betahaus and c-base
+* great couch with privacy in X city, near cool spots like Y and Z
 
 No need to limit length of stay or state interests, just check out people’s profiles, look at their code and discuss everything directly in the issue.
 
@@ -24,6 +24,5 @@ No need to limit length of stay or state interests, just check out people’s pr
 ## Have me crash on your couch
 Your next travels where you need a couch go in here, like:
 
-* May 6 – 12 in Berlin
-* June 3 – ? in Munich
+* EXAMPLE: May 6 – 12 2015 in London
 
